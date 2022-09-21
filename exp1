@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>Demo Web Page</title>
+</head>
+<body>
+<h1>This is Simple Webpage</h1>
+<p><i>Welcome to Demo for creating Web Page</i></p>
+<br>
+<img src="https://www.sathyabama.ac.in/sites/default/files/2021-03/DJI_0105-New-Low.jpg" alt="Image Deleted" height="100px" width="100px">
+<br>
+<form>
+FirstName:<input type="text" name="frame"><br>
+LastName:<input type="text" name="frame"><br>
+Password:<input type="text" name="frame"><br>
+Select the country<br>
+India<input type="checkbox" name="country"><br>
+USA<input type="checkbox" name="country"><br>
+china<input type="checkbox" name="country"><br>
+Japan<input type="checkbox" name="country"><br>
+<input type="submit" name="Submit"><br>
+
+</form>
+</body>
+</html>
