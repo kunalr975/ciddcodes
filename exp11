@@ -1,0 +1,37 @@
+11(a)angular js directives
+
+
+angulat directives(a).html
+
+
+<html>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+<body>
+
+<div ng-app="">
+  <p>Name: <input type="text" ng-model="name"></p>
+  <p ng-bind="name"></p>
+</div>
+
+</body>
+</html>
+
+
+
+11(b) angular js directive -ng-init
+
+
+angular directives(b).html
+
+
+<html>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+
+<div ng-app="" ng-init="firstName='John'">
+
+<p>The name is <span ng-bind="firstName"></span></p>
+
+</div>
+
+</body>
+</html>
